@@ -7,7 +7,7 @@ README_PATH = BASE_DIR / "README.md"
 
 setuptools.setup(
     name="deploymaadi",
-    version="1.0.0",
+    version="1.0.1",
     description="Module for automated deployments",
     long_description=README_PATH.read_text(),
     long_description_content_type="text/markdown",
@@ -15,8 +15,8 @@ setuptools.setup(
     author_email="onlinejudge95@gmail.com",
     maintainer="onlinejudge95",
     maintainer_email="onlinejudge95@gmail.com",
-    download_url="http://github.com/onlinejudge95/pydeployer",
-    url="http://github.com/onlinejudge95/pydeployer",
+    download_url="https://github.com/onlinejudge95/PyDeployEr",
+    url="http://github.com/onlinejudge95/PyDeployEr",
     packages=setuptools.find_packages(exclude=("tests",)),
     license="MIT",
     classifiers=[

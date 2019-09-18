@@ -4,3 +4,5 @@ black==19.3b0
 fabric==2.5.0
 bumpversion==0.5.3
 twine==1.14.0
+
+sphinx
