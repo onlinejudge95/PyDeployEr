@@ -15,8 +15,8 @@ setuptools.setup(
     author_email="onlinejudge95@gmail.com",
     maintainer="onlinejudge95",
     maintainer_email="onlinejudge95@gmail.com",
-    download_url="http://github.com/onlinejudge95/pydeployer",
-    url="http://github.com/onlinejudge95/pydeployer",
+    download_url="https://github.com/onlinejudge95/PyDeployEr",
+    url="http://github.com/onlinejudge95/PyDeployEr",
     packages=setuptools.find_packages(exclude=("tests",)),
     license="MIT",
     classifiers=[
