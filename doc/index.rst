@@ -8,18 +8,9 @@ Welcome to PyDeployEr's documentation!
 
 .. toctree::
    :maxdepth: 2
-   :caption: Contents:
 
    introduction
    setup
    tutorial
    API reference
    Developer documentation
-
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
