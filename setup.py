@@ -6,10 +6,11 @@ BASE_DIR = pathlib.Path.cwd()
 README_PATH = BASE_DIR / "README.md"
 
 setuptools.setup(
-    name="popper",
-    version="0.0.0",
+    name="deploymaadi",
+    version="0.1.0",
     description="Module for automated deployments",
     long_description=README_PATH.read_text(),
+    long_description_content_type="text/markdown",
     author="onlinejudge95",
     author_email="onlinejudge95@gmail.com",
     maintainer="onlinejudge95",
@@ -37,5 +38,5 @@ setuptools.setup(
     include_package_data=True,
     install_requires=["click", "paramiko"],
     zip_safe=False,
-    entry_points={"console_scripts": ["popper=popper.__main__:main"]},
+    entry_points={"console_scripts": ["deploymaadi=deploymaadi.__main__:main"]},
 )

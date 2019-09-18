@@ -1,3 +1,10 @@
 __pycache__/
+.pip/
 .vscode/
+build/
+dist/
+deploymaadi.egg-info/
 env/
+
+etc/config.json
+etc/*.pem
