@@ -7,7 +7,7 @@ README_PATH = BASE_DIR / "README.md"
 
 setuptools.setup(
     name="deploymaadi",
-    version="0.1.0",
+    version="1.0.0",
     description="Module for automated deployments",
     long_description=README_PATH.read_text(),
     long_description_content_type="text/markdown",
