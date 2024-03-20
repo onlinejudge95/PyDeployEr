@@ -1,5 +1,5 @@
 click==7.0
-black==19.3b0
+black==24.3.0
 
 fabric==2.5.0
 bumpversion==0.5.3
